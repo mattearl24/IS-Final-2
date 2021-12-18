@@ -1,0 +1,21 @@
+body {
+    background-color: #0dcfcf;
+    font-family: Helvetica, Arial, sans-serif;
+}
+h2 {
+    font-family: 'Brush Script MT', cursive;
+}
+.fancy {
+    color: rgb(155, 197, 1);
+}
+h1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 4.5em;
+    text-align: center;
+}
+
+a:link {
+	color: rgb(12, 243, 12);
+	background-color: transparent;
+	text-decoration: none;
+  }
